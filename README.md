@@ -42,12 +42,14 @@ cherry[bin]
 - Wep app (coming soon)
 
 <h4>
-cherry[mem]
+cherry[keep]
 </h4>
+
+[![GitHub license](https://img.shields.io/github/license/alxwnth/cherrykeep.svg)](https://github.com/alxwnth/cherrykeep/blob/main/LICENSE)
 
 > Keep your thoughts. Or forget them.
 
-- Repository (coming soon)
+- [Repository](https://github.com/alxwnth/cherrykeep)
 - Wep app (coming soon)
 
 <h2 align="center">
