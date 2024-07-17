@@ -22,38 +22,6 @@
 </p>
 
 <h2 align="center">
-cherry[box]
-</h2>
-
-<h3 align="center">
-A small collection of sweet productivity tools
-</h3>
-
-<h4>
-cherry[bin]
-</h4>
-
-[![GitHub license](https://img.shields.io/github/license/alxwnth/cherrybin.svg)](https://github.com/alxwnth/cherrybin/blob/main/LICENSE)
-![Free as in freedom. Free as in beer](https://img.shields.io/badge/price-%240-brightgreen)
-[![GitHub Release](https://img.shields.io/github/v/release/alxwnth/cherrybin)](https://github.com/alxwnth/cherrybin/releases)
-
-> Minimalistic encrypted pastebin service with optional client-side zero-knowledge encryption.
-
-- [Repository](https://github.com/alxwnth/cherrybin)
-- [Wep app](https://bin.cherrybox.alxwnth.com/)
-
-<h4>
-cherry[keep]
-</h4>
-
-[![GitHub license](https://img.shields.io/github/license/alxwnth/cherrykeep.svg)](https://github.com/alxwnth/cherrykeep/blob/main/LICENSE)
-
-> Keep your thoughts. Or forget them.
-
-- [Repository](https://github.com/alxwnth/cherrykeep)
-- Wep app (coming soon)
-
-<h2 align="center">
 my stack
 </h2>
 
